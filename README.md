@@ -1,1 +1,1 @@
-# Delsgade.Bgmi.Team
+# Delsgade-BGMI_Team
