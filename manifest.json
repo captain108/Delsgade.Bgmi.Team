@@ -1,12 +1,12 @@
 {
     "name":"Delsgade",
-    "short_name":"DSG",
+    "short_name":"Delsgade",
     "start_url":"index.html",
     "display":"standalone",
     "background_color":"#FF6347",
     "theme_color":"black",
     "scope": ".",
-    "description":"This is a PWA tutorial.",
+    "description":"Welcome to Delsgade.",
     "icons":[
     {
     "src":"images/icon-192x192.png",                     
